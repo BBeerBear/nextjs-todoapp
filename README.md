@@ -1,2 +1,1 @@
-Website
-https://nextjs-typescript-todoapp.vercel.app/
+A Todo List...-_-
